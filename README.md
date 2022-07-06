@@ -18,6 +18,11 @@ This is a simple console application to implement no parameters tests (single co
 
 This is also a console application to create tests using parameters with DataRow, besides introducing the implementation of test initialization method and the use of decimal places definition in the assert statements.
 
+### 03 MarketShare
+
+Another simple console application to calculate the market share of a company based on sales information. This example introduces the tests for Exceptions, in this case, DivisionByZeroException (when total market sales equals zero) and ArgumentException (for incoherent parameters).
+
+
 <br />
 
 ## Technologies 
