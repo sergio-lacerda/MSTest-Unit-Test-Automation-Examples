@@ -10,9 +10,13 @@ _**[Español]**_ Estos son algunos ejemplos de soluciones que suelo desarrollar 
 
 ## Solutions description
 
-### 01 Pode Votar
+### 01 Pode Votar (can vote?)
 
 This is a simple console application to implement no parameters tests (single condition tests), in order to introduce the initial test automation basic concepts. Based on a person's age, the software returns a string informing if he or she can vote in a brazilian election.
+
+### 02 Aplicar Desconto (apply discount)
+
+This is also a console application to create tests using parameters with DataRow, besides introducing the implementation of test initialization method and the use of decimal places definition in the assert statements.
 
 <br />
 
@@ -34,6 +38,6 @@ This is a simple console application to implement no parameters tests (single co
 
 ## Installation
 
-No additional configuration are necessary. Just clone the solutions and run the tests.
+No additional configuration is necessary. Just clone the solutions and run the tests.
 
     
