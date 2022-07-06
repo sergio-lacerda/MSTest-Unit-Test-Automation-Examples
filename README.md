@@ -8,9 +8,11 @@ _**[Español]**_ Estos son algunos ejemplos de soluciones que suelo desarrollar 
 
 <br />
 
-## Screenshots 
-<br />
+## Solutions description
 
+### 01 Pode Votar
+
+This is a simple console application to implement no parameters tests (single condition tests), in order to introduce the initial test automation basic concepts. Based on a person's age, the software returns a string informing if he or she can vote in a brazilian election.
 
 <br />
 
