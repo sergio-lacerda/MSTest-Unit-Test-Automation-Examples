@@ -26,6 +26,10 @@ Another simple console application to calculate the market share of a company ba
 
 A Web MVC Application example to introduce the process of testing the controller actions for their views. This project has only the HomeController and three especific actions: Index (main page), Sobre (about) and Produtos (product list).
 
+### 05 Teste API REST (API REST Application Test)
+
+This is a simple API REST Application example provided as a challenge for the students to implement all tests they've learned with the previous projects, besides exploring ways to test API endpoints.
+
 <br />
 
 ## Technologies 
