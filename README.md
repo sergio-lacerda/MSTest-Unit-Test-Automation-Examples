@@ -1,3 +1,5 @@
+![MSTest Unit Test Automation Examples Repository Header Image](https://github.com/sergio-lacerda/MSTest-Unit-Test-Automation-Examples/blob/master/Preview/header.png "MSTest Unit Test Automation Examples Repository Header Image")
+
 # MSTest Unit Test Automation Examples
 
 _**[English]**_ These are some example solutions that I usually develop in my classes to teach about unit test automation based on MSTest.
@@ -5,6 +7,13 @@ _**[English]**_ These are some example solutions that I usually develop in my cl
 _**[Português]**_ Estes são alguns exemplos de soluções que costumo desenvolver em minhas aulas para ensinar sobre automação de testes unitários com base no MSTest. 
 
 _**[Español]**_ Estos son algunos ejemplos de soluciones que suelo desarrollar en mis clases para enseñar sobre la automatización de pruebas unitarias basadas en MSTest.
+
+## Screenshots 
+<br />
+
+![Screenshot 1](https://github.com/sergio-lacerda/MSTest-Unit-Test-Automation-Examples/blob/master/Preview/Tela01.png "Screenshot 1")
+
+![Screenshot 2](https://github.com/sergio-lacerda/MSTest-Unit-Test-Automation-Examples/blob/master/Preview/Tela02.png "Screenshot 2")
 
 <br />
 
